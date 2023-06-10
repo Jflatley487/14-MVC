@@ -33,23 +33,6 @@ The Tech Blog application utilizes the following technologies:
 - Deployment:
   - Heroku (cloud platform)
 
-## Installation
-
-To run the Tech Blog application locally, follow these steps:
-
-1. Clone the repository from GitHub.
-2. Install the required dependencies by running `npm install` in the project directory.
-3. Set up a MySQL database and update the database configuration in the `.env` file.
-4. Run the database migrations using `npx sequelize-cli db:migrate`.
-5. (Optional) Run the database seeders using `npx sequelize-cli db:seed:all` to populate the database with sample data.
-6. Start the application by running `npm start`.
-7. Access the application in your browser at `http://localhost:3000`.
-
-## Deployment
-
-The Tech Blog application is deployed and accessible at [live URL](deployment-link).
-
-
 ## Screenshots
 
 ![screenshot1]
