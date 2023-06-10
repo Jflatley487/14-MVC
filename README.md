@@ -36,11 +36,7 @@ The Tech Blog application utilizes the following technologies:
 ## Screenshots
 
 ![screenshot1](https://github.com/Jflatley487/14-MVC/blob/aa99f2980199a1bf35e5f983d10b2b121e05be1d/Screenshot%202023-06-10%20at%201.48.26%20PM.png)
-![screenshot2]
-
-![screenshot3]
-
-![screenshot4]
+![screenshot2](https://github.com/Jflatley487/14-MVC/blob/6da0033e30c922fd039c1e9b046800d4278524bb/Screenshot%202023-06-10%20at%201.48.37%20PM.png)
 
 ## License
 The Tech Blog application is licensed under the MIT License.
