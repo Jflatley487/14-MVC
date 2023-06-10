@@ -35,8 +35,7 @@ The Tech Blog application utilizes the following technologies:
 
 ## Screenshots
 
-![screenshot1]
-
+![screenshot1](https://github.com/Jflatley487/14-MVC/blob/aa99f2980199a1bf35e5f983d10b2b121e05be1d/Screenshot%202023-06-10%20at%201.48.26%20PM.png)
 ![screenshot2]
 
 ![screenshot3]
